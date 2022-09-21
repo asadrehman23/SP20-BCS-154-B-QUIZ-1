@@ -1,2 +1,2 @@
 # QUIZ-1
- Responsive website using media queries. Agency website template!
+ Responsive website using bootstrap & media queries. Agency website template!
